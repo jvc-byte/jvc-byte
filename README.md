@@ -30,6 +30,12 @@
     &#xf099;
     <img src="https://img.shields.io/badge/X_(Formerly_twitter)-FFD700" alt="Follow me on X @ jvc_im" style="margin-left: 5px;" />
   </a>
+    <a href="https://github.com/jvc-byte">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+</a>
+  <a href="https://code.visualstudio.com/">
+<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</a>
 </p>
 
 
