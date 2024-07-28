@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [project 1](link 1)
+<!-- 🔭 I’m currently working on [project 1](link 1)
 
 - 🌱 I’m currently learning **project 2**
 
@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [project 2](project 2)
 
-- ⚡ Fun fact **project 2**
+- ⚡ Fun fact **project 2** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
