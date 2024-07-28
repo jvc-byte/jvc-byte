@@ -16,11 +16,16 @@
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
-- 🌱 I’m currently learning **Zk-Proofs and sui blockchain**
-- 📝 I regularly write articles on [mediun](https://medium.com/@jvc8463)
-- 💬 Ask me about **Web3, DBMS, Circuits/PCBs, Cybersecurity & Linux**
-- 📫 How to reach me **jvc8463@gmail.com**
-        <img src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif" alt="jvc-byte" />
+- 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs**
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development
+- 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system)
+- 🤝 I’m looking for help with [**Sui blockchain-based charity and aid distribution system**](https://github.com/jvc-byte/charity-aid-system)
+- 👨‍💻 All of my projects are available at [**my GitHub repositories**](https://github.com/jvc-byte?tab=repositories)
+- 💬 Ask me about **blockchain technology, cryptography, Web3, DBMS, Circuits/PCBs, Cybersecurity, Linux and full-stack development**
+- 📫 How to reach me **via [email](jvc8463@gmail.com)**
+- 📄 Know about my experiences [on LinkedIn](https://linkedin.com/in/jvc-byte)
+- ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
+
 
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
@@ -49,23 +54,6 @@
 
 <!-- 🔭 I’m currently working on [project 1](link 1)
 
-- 🌱 I’m currently learning **project 2**
-
-- 👯 I’m looking to collaborate on [project 2](link 2)
-
-- 🤝 I’m looking for help with [project 2](project 2)
-
-- 👨‍💻 All of my projects are available at [project 2](project 2)
-
-- 📝 I regularly write articles on [project 2](project 2)
-
-- 💬 Ask me about **project 2**
-
-- 📫 How to reach me **project 2**
-
-- 📄 Know about my experiences [project 2](project 2)
-
-- ⚡ Fun fact **project 2** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
