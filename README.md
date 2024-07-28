@@ -6,9 +6,10 @@
 <!-- QUICK INTRO ABOUT ME -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1> Hi 👋, I'm JVC <h1>
-      <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" />
+  <h1>Hi 👋, I'm JVC</h1>
+  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" />
 </div>
+
 
 
 <h3 align="left">
