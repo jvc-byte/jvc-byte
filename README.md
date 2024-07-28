@@ -6,8 +6,8 @@
 <!-- QUICK INTRO ABOUT ME -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <p style="font-size:40px">Hi 👋, I'm JVC</p>
-  <p><img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></p>
+  <span style="font-size:100px">Hi 👋, I'm JVC</span>
+  <span><img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></span>
 </div>
 
 
