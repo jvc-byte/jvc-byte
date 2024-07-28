@@ -1,5 +1,5 @@
 <p align="center" style="width: 100%;"> 
-    <img src="https://github.com/jvc-byte/jvc-byte/blob/main/word-cloud%20(1).jpeg" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
+    <img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
 </p>
 <h1 align="center">Hi 👋, I'm jvc</h1>
 <h3 align="center">A passionate web developer.</h3>
