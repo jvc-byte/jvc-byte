@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/jvc-byte/jvc-byte/blob/main/x49cyAFB.png" alt="jvc-byte" /> </p>
+<p align="center" style="width='20px'; height='40px';"> <img src="https://github.com/jvc-byte/jvc-byte/blob/main/word-cloud%20(1).jpeg" alt="jvc-byte" /> </p>
 
 
 
