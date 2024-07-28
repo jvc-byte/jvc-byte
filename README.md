@@ -122,8 +122,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=2077" style="height: 300px"  />
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&theme=2077&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="jvc-byte" style="margin: 10px;" /></span>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=2077" style="height: 300px"/>
 
 ## 🏆 GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
@@ -137,6 +136,7 @@
   <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvc-byte&theme=react-dark&hide_border=true" /></a> -->  
 
 ## ✍️ Random Dev Quote
+
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
