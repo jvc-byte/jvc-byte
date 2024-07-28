@@ -1,5 +1,10 @@
 <!-- JVC IMAGE -->
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+ <!-- QUICK INTRO ABOUT ME -->
+<h1>Hi 👋, I'm JVC </h1>
+<!-- <p align="left">
+    A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
+</p> -->
  <!-- A README TYPING -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color: "red">
@@ -10,12 +15,6 @@
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--<img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> -->
-
-<!-- QUICK INTRO ABOUT ME -->
-<h1>Hi 👋, I'm JVC </h1>
-<p align="left">
-    A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
-</p>
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=FFD700&style=flat" alt="profile-views-count"/>
