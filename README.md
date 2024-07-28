@@ -5,7 +5,7 @@
 
 <!-- QUICK INTRO ABOUT ME -->
 <h1 align="left">Hi 👋, I'm JVC
-<span align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </span> <!-- PRFILE VIEWS COUNTER -->
+<span style="margin-left:10px;"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </span> <!-- PRFILE VIEWS COUNTER -->
 </h1>
 <h3 align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
