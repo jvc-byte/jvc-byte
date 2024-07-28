@@ -20,6 +20,7 @@
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=FFD700&style=flat" alt="profile-views-count"/>
  <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&color=FFD700&style=flat" alt="followers-count"> 
 </p>
+<h1></h1>
 
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
