@@ -4,7 +4,7 @@
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
-<h1>Hi 👋, I'm JVC     <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte"/></h1>
+<h1>Hi 👋, I'm JVC     <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=FFD700&style=flat" alt="jvc-byte"/></h1>
 <h5 align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
 </h5>
@@ -25,7 +25,8 @@
 - ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
 
 <p align="left"> <a href="https://x.com/jvc_im" target="blank">
-    <img src="https://img.shields.io/badge/just%20the%20message-FFD700" alt="Follow me on X @ jvc_im" /></a> 
+    **Lets Connect on:**
+    <img Unicode: f099  src="https://img.shields.io/badge/X(Formerly_twitter)-FFD700" alt="Follow me on X @ jvc_im" /></a> 
 </p>
 
 <hr>
