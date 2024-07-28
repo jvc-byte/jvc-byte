@@ -26,16 +26,21 @@
 
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
-  <a href="https://x.com/jvc_im" target="blank" style="margin-left: 10px; text-decoration: none; color: #0000FF;">
-    &#xf099;
-    <img src="https://img.shields.io/badge/X_(Formerly_twitter)-FFD700" alt="Follow me on X @ jvc_im" style="margin-left: 5px;" />
-  </a>
     <a href="https://github.com/jvc-byte">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
-</a>
-  <a href="https://code.visualstudio.com/">
-<img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</a>
+        <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
+    </a>
+    <a href="https://x.com/jvc_im">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">
+    </a>
+     <a href="https://medium.com/@jvc8463">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">
+    </a>
+     <a href="https://www.linkedin.com/in/jvc-byte">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    </a>
+     <a href="https://stackoverflow.com/users/26541032/jvc?tab=profile">
+        <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/stackoverflow.png" alt="vscode" style="vertical-align:top; margin:4px">
+    </a>
 </p>
 
 
