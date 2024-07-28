@@ -11,7 +11,7 @@
     
 <hr/>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif">
 
 <p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
 
@@ -20,12 +20,7 @@
 - 📝 I regularly write articles on [mediun](https://medium.com/@jvc8463)
 - 💬 Ask me about **Web3, DBMS, Circuits/PCBs, Cybersecurity & Linux**
 - 📫 How to reach me **jvc8463@gmail.com**
-
-<p align="left" style="vertical-align:top; margin:4px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif/?username=jvc-byte&margin-w=15&margin-h=15&theme=onestar&column=6&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
-    </a> 
-</p>
+        <img src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif" alt="jvc-byte" />
 
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
