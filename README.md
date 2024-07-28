@@ -30,7 +30,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" height="800" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" alt="Coding" width="400" height="500" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs**
