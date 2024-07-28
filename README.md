@@ -4,11 +4,7 @@
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
-
-<div>
-  <h1>Hi 👋, I'm JVC</h1>
-  <span><img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></span>
-</div>
+<h1>Hi 👋, I'm JVC <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></h1>
 
 
 
