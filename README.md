@@ -138,8 +138,8 @@
 
 ## ✍️ Random Dev Quote
 
-  <div align="center">  
-<img  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+  <div align="center" width="100%">  
+<img  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="100%"/>
     </div>  
 
  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
