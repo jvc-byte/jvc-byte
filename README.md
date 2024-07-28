@@ -7,26 +7,21 @@
 <p align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
 </p>
-    
-<hr/>
- <img align="center" src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=FFD700&style=flat" alt="jvc-byte"/>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-   <p align="center" color: "red">
- <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;Prompt+Engineer+From+India;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India"></a>
-      </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
- <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center" color: "red">
+ <a>
+  <img src="https://readme-typing-svg.demolab.com/ font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure+and+Algorithm;Prompt+Engineer+From+India;MERN+Stack+Web+Developer+From+India;Full+Stack+Web+Developer+From+India">
+ </a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ajay84sia&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views-count" />
- <img src="https://img.shields.io/github/followers/Ajay84sia?label=Followers&style=social" alt="followers-count"> 
+ <img align="center" src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=FFD700&style=flat" alt="profile-views-count"/>
+ <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&style=social" alt="followers-count"> 
 </p>
 
 
@@ -35,7 +30,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs**
