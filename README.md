@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm jvc</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvc-byte" alt="jvc-byte" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jvc-byte" alt="jvc-byte" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!-- 🔭 I’m currently working on [project 1](link 1)
 
@@ -27,12 +27,12 @@
 
 - ⚡ Fun fact **project 2** -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/jvc-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvc-byte" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Language and Tools🧰:</h3>
+<h3 align="center">Language and Tools🧰:</h3>
 <p align="center">
   <a href="https://github.com/jvc-byte">
 <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/prod/svg/dev/services/github.svg" alt="github" style="vertical-align:top; margin:4px">
@@ -49,10 +49,10 @@
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
-<!--<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/jvc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jvc" /></a></p><br><br>-->
+<!--<h3 align="center">Support:</h3>
+<p><a href="https://ko-fi.com/jvc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jvc" /></a></p><br><br>-->
 
-<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact" alt="jvc-byte" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact" alt="jvc-byte" /></span>
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en" alt="jvc-byte" /></span>
 
