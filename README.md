@@ -13,7 +13,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif">
 
-<p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
+<p align="left">
+  <a href="https://x.com/jvc_im" target="blank">
+    <img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" />
+  </a>
+  <span style="color: blue;">This is a blue text</span>
+</p>
+
 
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs**
