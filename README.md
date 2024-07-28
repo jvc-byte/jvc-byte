@@ -1,24 +1,27 @@
+<!-- JVC IMAGE -->
 <p align="center" style="width: 100%;"> 
     <img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
 </p>
+<!-- QUICK INTRO ABOUT ME -->
 <h1 align="center">Hi 👋, I'm jvc</h1>
 <h3 align="center">A passionate web developer.</h3>
-
+<!-- PRFILE VIEWS COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
-
+<!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="center">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
     <span>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=black-ice&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
 </div>
 
 
+<!-- MY GITHUB PROFILE TROPHIES -->
 <p align="center" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
         <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=darkhub" alt="jvc-byte" />
