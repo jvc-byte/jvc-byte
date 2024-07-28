@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/jvc-byte/jvc-byte/x49cyAFB.png" alt="jvc-byte" /> </p>
+<p align="center"> <img src="https://github.com/jvc-byte/jvc-byte/blob/main/x49cyAFB.png" alt="jvc-byte" /> </p>
 
 
 
