@@ -8,7 +8,7 @@
 
 <p align="center" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=gruvbox" alt="jvc-byte" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=darkhub" alt="jvc-byte" />
     </a> 
 </p>
 
