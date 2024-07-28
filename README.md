@@ -24,10 +24,14 @@
 - 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-byte)
 - ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
 
-<p align="left"> <a href="https://x.com/jvc_im" target="blank">
-    **Lets Connect on:**
-    <img Unicode: f099  src="https://img.shields.io/badge/X(Formerly_twitter)-FFD700" alt="Follow me on X @ jvc_im" /></a> 
+<p align="left" style="display: flex; align-items: center;">
+  <strong>Let's Connect on:</strong>
+  <a href="https://x.com/jvc_im" target="blank" style="margin-left: 10px; text-decoration: none; color: #0000FF;">
+    &#xf099;
+    <img src="https://img.shields.io/badge/X_(Formerly_twitter)-FFD700" alt="Follow me on X @ jvc_im" style="margin-left: 5px;" />
+  </a>
 </p>
+
 
 <hr>
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
