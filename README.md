@@ -10,13 +10,13 @@
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
-    </span>
-    <span>
         <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
     <span>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=black-ice&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+    </span>
+     <span>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
 </div>
 
@@ -25,9 +25,10 @@
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="center" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=darkhub" alt="jvc-byte" />
+        <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=algolia&no-frame=true&row=1&column=6&bg_color=000000&title_color=ffd700&text_color=ffffff" alt="jvc-byte" />
     </a> 
 </p>
+
 
 <!-- 🔭 I’m currently working on [project 1](link 1)
 
