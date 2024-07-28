@@ -13,11 +13,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif">
 
-<p align="left"> <a href="https://x.com/jvc_im" target="blank">
-    <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="Follow me on X @ jvc_im" /></a> 
-</p>
-
-
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development
@@ -28,6 +23,10 @@
 - 📫 How to reach me via [**email**](mailto:jvc8463@gmail.com)
 - 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-byte)
 - ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
+
+<p align="left"> <a href="https://x.com/jvc_im" target="blank">
+    <img src="https://img.shields.io/badge/just%20the%20message-FFD700" alt="Follow me on X @ jvc_im" /></a> 
+</p>
 
 <hr>
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
