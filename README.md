@@ -110,7 +110,7 @@
   <br/>
     <br/>
   <br/>
- <a align="right" href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250"  width="46%" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=200" alt="GitHub Streak" /></a>
 </div>
 <br/>
 <br/>
