@@ -19,7 +19,7 @@
 
 
 
-<p align="center"> 
+<p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=FFD700&style=flat" alt="profile-views-count"/>
  <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&color=FFD700&style=flat" alt="followers-count"> 
 </p>
