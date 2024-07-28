@@ -106,7 +106,7 @@
 ## 📊 Statistics  
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2077" width="46%" />
- <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true" width="46%" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" /></a>
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
