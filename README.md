@@ -9,7 +9,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
    <p align="center" color: "red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&width=1000&lines=A+passionate+Software+Engineer+with+a+strong+interest+in+blockchain;technology+🌐,+PCB+and+circuit+design+🔧;web+development+💻,+and+database+development+🗄️;I+enjoy+solving+complex+problems+and+creating+innovative+solutions;Currently,+I’m+diving+deep+into+cryptography+🔒;and+exploring+the+Sui+blockchain;Let's+connect+and+build+something+amazing+together!+🚀"></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&width=1000&lines=A+passionate+Software+Engineer+with+a+strong+interest+in+blockchain;technology+🌐,+PCB+and+circuit+design+🔧;web+development+💻,+and+database+development+🗄️;I+enjoy+solving+complex+problems+and+creating+innovative+solutions;Currently,+I’m+diving+deep+into+cryptography+🔒;and+exploring+the+Sui+blockchain;Let's+connect+and+build+amazing+things+together!+🚀"></a>
    </p>
 <!--<img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> -->
 
@@ -106,7 +106,6 @@
 ## 📊 Statistics  
 <div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2077" width="46%" />
- <br/>
  <br/>
  <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" /></a>
 </div>
