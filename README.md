@@ -2,9 +2,19 @@
 <p align="center" style="width: 100%;"> 
     <img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
 </p>
+
 <!-- QUICK INTRO ABOUT ME -->
-<h1 align="center">Hi 👋, I'm jvc</h1>
-<h3 align="center">A passionate web developer.</h3>
+<h1 align="left">Hi 👋, I'm JVC</h1>
+<h3 align="left">
+    A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
+</h3>
+
+<p align="left" style="vertical-align:top; margin:4px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
+        <img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png/?username=jvc-byte&margin-w=15&margin-h=15&theme=onestar&column=6&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
+    </a> 
+</p>
+
 <!-- PRFILE VIEWS COUNTER -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
@@ -20,13 +30,12 @@
     </p>
 </div>
 
-
 <!-- MY GITHUB PROFILE TROPHIES -->
-<span align="left" style="vertical-align:top; margin:4px;">
+<p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
         <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=onestar&column=9&title_color=ffd700&text_color=ffd700&bg_color=000000" alt="jvc-byte" />
     </a> 
-</span>
+</p>
 
 
 
