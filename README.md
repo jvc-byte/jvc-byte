@@ -10,20 +10,18 @@
    <p align="center" color: "red">
  <a>
           <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&width=1000&lines=A+passionate+Software+Engineer+with+a+strong+interest+in+blockchain;technology+🌐,+PCB+and+circuit+design+🔧;web+development+💻,+and+database+development+🗄️;I+enjoy+solving+complex+problems+and+creating+innovative+solutions;Currently,+I’m+diving+deep+into+cryptography+🔒;and+exploring+the+Sui+blockchain;Let's+connect+and+build+something+amazing+together!+🚀"></a>
-
    </p>
-       
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--<img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> -->
 
+<!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=FFD700&style=flat" alt="profile-views-count"/>
  <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&color=FFD700&style=flat" alt="followers-count"> 
 </p>
-<h1></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
-
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network.**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs.**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development.
@@ -35,6 +33,7 @@
 - 💬 Open for your suggestions.
 - ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
 
+<!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
     <a href="https://github.com/jvc-byte">
@@ -53,9 +52,9 @@
         <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/stackoverflow.png" alt="vscode" style="vertical-align:top; margin:4px">
     </a>
 </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+# 🥇 Technical Skills:
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
     <span>
