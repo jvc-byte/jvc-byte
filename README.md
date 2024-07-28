@@ -4,11 +4,13 @@
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
-<h1 align="left">Hi 👋, I'm JVC
-    <span style="float:right;">
-        <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" />
-    </span>
+<h1 style="display: flex; justify-content: space-between; align-items: center;">
+  Hi 👋, I'm JVC
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" />
+  </span>
 </h1>
+
 
 <h3 align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
