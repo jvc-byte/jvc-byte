@@ -1,7 +1,6 @@
 <!-- JVC IMAGE -->
-<p align="center" style="width: 100%;"> 
-    <img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
-</p>
+ <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://github.com/jvc-byte/jvc-byte/blob/main/jvcLogo.png" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
 
 <!-- QUICK INTRO ABOUT ME -->
 <h1>Hi 👋, I'm JVC     <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=FFD700&style=flat" alt="jvc-byte"/></h1>
