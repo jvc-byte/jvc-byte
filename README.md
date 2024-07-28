@@ -93,6 +93,8 @@
    <img src = "https://img.shields.io/badge/ZK-Rollup-1F8AC0.svg?style=for-the-badge&logo=ZK-Rollup&logoColor=white" align="center" alt="ZK-Rollup"/>
    <img src = "https://img.shields.io/badge/ZK-Login-00796B.svg?style=for-the-badge&logo=ZK-Login&logoColor=white" align="center" alt="ZK-Login"/>
    <img src = "https://img.shields.io/badge/SNARKs-0033A0.svg?style=for-the-badge&logo=SNARKs&logoColor=white" align="center" alt="SNARKs"/>
+   <br/>
+   <br/>
    <img src = "https://img.shields.io/badge/hardhat-4C4F5C.svg?style=for-the-badge&logo=hardhat&logoColor=white" align="center" alt="Hardhat"/>
    <img src = "https://img.shields.io/badge/remix-0077B5.svg?style=for-the-badge&logo=remix&logoColor=white" align="center" alt="Remix IDE"/>
    <img src = "https://img.shields.io/badge/truffle-F77F00.svg?style=for-the-badge&logo=Truffle&logoColor=white" align="center" alt="Truffle"/>
@@ -103,7 +105,7 @@
 
 ## 📊 Statistics  
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2070" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2077" width="46%" />
   <br/>
   <br/>
     <br/>
@@ -114,29 +116,16 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=2070" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=2077" width="45%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=2077" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=2077" style="height: 300px"  />
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&theme=2077&bg_color=00000000&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="jvc-byte" style="margin: 10px;" /></span>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## 🏆 GitHub Trophies
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
@@ -144,12 +133,10 @@
     </a> 
 </p>
 
-
-
 <!-- <h2 align="left">⚡Activity Graph:</h2>
   <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvc-byte&theme=react-dark&hide_border=true" /></a> -->  
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>  
