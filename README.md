@@ -103,7 +103,7 @@
 
 ## 📊 Statistics  
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2070" width="46%" />
   <br/>
   <br/>
     <br/>
@@ -114,13 +114,13 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=2070" width="45%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=2077" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">    
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay84sia&theme=2077" style="height: 300px"  />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=2077" style="height: 300px"  />
 
 
 
@@ -136,25 +136,6 @@
 
 
 
-
-
-
-
-
-
-
-<!-- THE QUICK SUMMARY OF MY GITHUB-->
-<div align="left">
-    <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
-    </span>
-    <span>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
-    </span>
-     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
-    </p>
-</div>
 
 <!-- MY GITHUB PROFILE TROPHIES -->
 <p align="left" style="vertical-align:top; margin:4px;">
