@@ -4,13 +4,10 @@
 </p>
 
 <!-- QUICK INTRO ABOUT ME -->
-<h1>Hi 👋, I'm JVC <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></h1>
-
-
-
+<h1>Hi 👋, I'm JVC <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" style="margin-left:50px;"/></h1>
 <h3 align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
-</h3>
+---
 <hr>
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
