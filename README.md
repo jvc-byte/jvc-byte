@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <h1 style="margin: 0;">Hi 👋, I'm JVC</h1>
-  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" />
+  <p><img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /></p>
 </div>
 
 
