@@ -13,11 +13,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/jvc-byte/jvc-byte/blob/main/manOnDesk.jfif">
 
-<p align="left">
-  <a href="https://x.com/jvc_im" target="blank">
-    <img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" />
-  </a>
-  <span style="color: blue;">This is a blue text</span>
+<p align="left"> <a href="https://x.com/jvc_im" target="blank">
+    <img src="https://img.shields.io/badge/just%20the%20message-8A2BE2" alt="Follow me on X @ jvc_im" /></a> 
 </p>
 
 
