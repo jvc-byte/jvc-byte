@@ -69,47 +69,53 @@
 <br/>
 <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
-<img src = "https://img.shields.io/badge/Tailwind%20CSS-%230ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwind CSS"/>
- 
-  
+<img src = "https://img.shields.io/badge/Tailwind%20CSS-%230ea5e9.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" align="center" alt="tailwind CSS"/>  
 </div>
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
- <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/>
    <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" align="center" alt="Solidity"/> 
    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/> 
+   <br/>
+   <br/>
+   <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+ <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/>
+   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+   <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" align="center" alt="Laravel"/>
  </div>
   
   <div align="center"><h3 align="center">Tools</h3> 
-   <img src="https://img.shields.io/badge/netlify-%2300827e.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt="git"/>
-   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" align="center" alt="git"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/VS_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode"/>
    <img src="https://img.shields.io/badge/Open%20AI-0f9e7b.svg?style=for-the-badge&logo=openAI&logoColor=white"  align="center" alt="open-AI"/>
+   <img src = "https://img.shields.io/badge/ZK-Rollup-1F8AC0.svg?style=for-the-badge&logo=ZK-Rollup&logoColor=white" align="center" alt="ZK-Rollup"/>
+   <img src = "https://img.shields.io/badge/ZK-Login-00796B.svg?style=for-the-badge&logo=ZK-Login&logoColor=white" align="center" alt="ZK-Login"/>
+   <img src = "https://img.shields.io/badge/SNARKs-0033A0.svg?style=for-the-badge&logo=SNARKs&logoColor=white" align="center" alt="SNARKs"/>
+   <img src = "https://img.shields.io/badge/hardhat-4C4F5C.svg?style=for-the-badge&logo=hardhat&logoColor=white" align="center" alt="Hardhat"/>
+   <img src = "https://img.shields.io/badge/remix-0077B5.svg?style=for-the-badge&logo=remix&logoColor=white" align="center" alt="Remix IDE"/>
+   <img src = "https://img.shields.io/badge/truffle-F77F00.svg?style=for-the-badge&logo=Truffle&logoColor=white" align="center" alt="Truffle"/>
+   <img src = "https://img.shields.io/badge/sui_cli-00A3E0.svg?style=for-the-badge&logo=sui_cli&logoColor=white" align="center" alt="SUI CLI"/>
    <br/>
   </div>
 
 
 ## 📊 Statistics  
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay84sia&theme=2077" width="46%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=2077" width="46%" />
   <br/>
   <br/>
     <br/>
   <br/>
-<img align="right" src="https://streak-stats.demolab.com/?user=Ajay84sia&_border=true&theme=dark&hide_border=true&theme=react" width="46%" />
+ <a align="right" href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true"  width="46%" alt="GitHub Streak" /></a>
 </div>
 <br/>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div>
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay84sia&theme=2077" width="45%" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajay84sia&theme=2077" width="45%" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=2077" width="45%" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=2077" width="45%" />
 </div>
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
