@@ -6,15 +6,24 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
 
+<div align="center">
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+    </span>
+    <span>
+        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+    </span>
+    <span>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=dark&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
+    </span>
+</div>
+
+
 <p align="center" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
         <img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&margin-w=15&margin-h=15&theme=darkhub" alt="jvc-byte" />
     </a> 
 </p>
-
-
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&margin-w=15&margin-h=15&theme=darkhub" alt="" /></a> </p>
 
 <!-- 🔭 I’m currently working on [project 1](link 1)
 
@@ -60,14 +69,3 @@
 
 <!--<h3 align="center">Support:</h3>
 <p><a href="https://ko-fi.com/jvc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jvc" /></a></p><br><br>-->
-
-<div align="center">
-  <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact" alt="jvc-byte" /></span>
-
-<span>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en" alt="jvc-byte" /></span>
-
-<span><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&" alt="jvc-byte" /></span>
-</div>
-
-
-
