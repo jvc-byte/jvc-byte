@@ -5,11 +5,21 @@
 
 <!-- QUICK INTRO ABOUT ME -->
 <h1>Hi 👋, I'm JVC     <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte"/></h1>
-<h3 align="left">
+<h5 align="left">
     A passionate Software Engineer with a strong interest in blockchain technology 🌐, PCB and circuit design 🔧, web development 💻, and database development 🗄️. I enjoy solving complex problems and creating innovative solutions. Currently, I’m diving deep into cryptography 🔒 and exploring the Sui blockchain. Let's connect and build something amazing together! 🚀
-</h3>
+</h5>
     
-<hr style="height: 1px; border: none; background-color: #000; margin: 10px 0;" />
+<hr/>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
+<p align="left"> <a href="https://twitter.comthetechnofeak" target="blank"><img src="https://img.shields.io/twitter/follow/thetechnofeak?logo=twitter&style=for-the-badge" alt="ashikla693" /></a> </p>
+
+- 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network**
+- 🌱 I’m currently learning **Zk-Proofs and sui blockchain**
+- 📝 I regularly write articles on [mediun](https://medium.com/@jvc8463)
+- 💬 Ask me about **Web3, DBMS, Circuits/PCBs, Cybersecurity & Linux**
+- 📫 How to reach me **jvc8463@gmail.com**
 
 <p align="left" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
