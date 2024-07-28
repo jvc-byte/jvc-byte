@@ -1,3 +1,7 @@
+<p align="center"> <img src="https://github.com/jvc-byte/jvc-byte/x49cyAFB.png" alt="jvc-byte" /> </p>
+
+
+
 <h1 align="center">Hi 👋, I'm jvc</h1>
 <h3 align="center">A passionate web developer.</h3>
 
