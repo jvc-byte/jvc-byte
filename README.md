@@ -20,13 +20,13 @@
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development
 - 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system)
 - 🤝 I’m looking for help with [**Sui blockchain-based charity and aid distribution system**](https://github.com/jvc-byte/charity-aid-system)
-- 👨‍💻 All of my projects are available at [**my GitHub repositories**](https://github.com/jvc-byte?tab=repositories)
+- 👨‍💻 All of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories)
 - 💬 Ask me about **blockchain technology, cryptography, Web3, DBMS, Circuits/PCBs, Cybersecurity, Linux and full-stack development**
-- 📫 How to reach me **via [email](jvc8463@gmail.com)**
-- 📄 Know about my experiences [on LinkedIn](https://linkedin.com/in/jvc-byte)
+- 📫 How to reach me via [**email**](mailto:jvc8463@gmail.com)
+- 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-byte)
 - ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
 
-
+<hr>
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
     <span>
