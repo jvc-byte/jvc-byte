@@ -52,11 +52,13 @@
 <!--<h3 align="center">Support:</h3>
 <p><a href="https://ko-fi.com/jvc"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jvc" /></a></p><br><br>-->
 
-<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact" alt="jvc-byte" /></span>
+<div align="center">
+  <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact" alt="jvc-byte" /></span>
 
 <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en" alt="jvc-byte" /></span>
 
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&" alt="jvc-byte" /></span>
+<span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&" alt="jvc-byte" /></span>
+</div>
 
 
 
