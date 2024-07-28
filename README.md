@@ -22,6 +22,7 @@
 
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network.**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs.**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development.
@@ -31,8 +32,8 @@
 - 📫 How to reach me via [**email**](mailto:jvc8463@gmail.com).
 - 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-byte).
 - 💬 Open for your suggestions.
-- ⚡ Fun fact **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
-
+- ⚡ Fun fact: **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
+ 
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
