@@ -1,13 +1,10 @@
 <p align="center" style="width: 100%;"> 
     <img src="https://github.com/jvc-byte/jvc-byte/blob/main/word-cloud%20(1).jpeg" alt="jvc-byte" style="width: 100%; height: 250px;" /> 
 </p>
-
-
-
 <h1 align="center">Hi 👋, I'm jvc</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile%20views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0e75b6&style=flat" alt="jvc-byte" /> </p>
 
 <p align="center" style="vertical-align:top; margin:4px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin: 10px;">
@@ -17,7 +14,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&margin-w=15&margin-h=15&theme=darkhub" alt="" /></a> </p>
 
 <!-- 🔭 I’m currently working on [project 1](link 1)
 
