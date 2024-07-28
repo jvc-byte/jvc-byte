@@ -21,7 +21,7 @@
  <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&color=FFD700&style=flat" alt="followers-count"> 
 </p>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+<img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
 - 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network.**
 - 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs.**
@@ -77,13 +77,8 @@
 
 
 
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvc-byte&theme=react-dark&hide_border=true" /></a>    
-  
-  <div align="center">    
-<img src="https://github-profile-trophy.vercel.app/?username=jvc-byte&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
-
-<img align="center" src="https://github.com/Ajay84sia/Ajay84sia/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+<!-- <h2 align="left">⚡Activity Graph:</h2>
+  <a><img alt="JVC's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jvc-byte&theme=react-dark&hide_border=true" /></a> -->  
 
 ### ✍️ Random Dev Quote
   <div align="center">  
