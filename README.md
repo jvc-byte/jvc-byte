@@ -10,13 +10,13 @@
 <!-- THE QUICK SUMMARY OF MY GITHUB-->
 <div align="left">
     <span>
-        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true&column=3" alt="jvc-byte" style="margin: 10px;" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jvc-byte&show_icons=true&locale=en&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
     <span>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffd700&hide_border=true&column=3" alt="jvc-byte" style="margin: 10px;" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvc-byte&theme=dark&ring=ffd700&fire=ffd700&currStreakLabel=ffd700&sideLabels=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
-     <span>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true&column=3" alt="jvc-byte" style="margin: 10px;" />
+     <span align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvc-byte&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ffd700&hide_border=true" alt="jvc-byte" style="margin: 10px;" />
     </span>
     <!-- MY GITHUB PROFILE TROPHIES -->
 <span align="left" style="vertical-align:top; margin:4px;">
