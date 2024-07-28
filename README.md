@@ -15,6 +15,8 @@
 
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="left"> 
+      <a href="https://github.com/jvc-byte/github-profile-summary-cards/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/jvc-byte/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
  <img src="https://img.shields.io/github/followers/jvc-byte?label=Followers&color=0ED7FF&style=flat" alt="followers-count"> 
 </p>
