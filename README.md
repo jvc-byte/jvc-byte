@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [project 2](project 2)
 
-- ⚡ Fun fact **project 2** -->
+- ⚡ Fun fact **project 2** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
