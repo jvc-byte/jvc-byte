@@ -70,7 +70,6 @@
    <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" align="center" alt="Solidity"/> 
    <img src="https://img.shields.io/badge/PHP-777BB5.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/>
-   <img src="https://img.shields.io/badge/ganache-777BB4.svg?style=for-the-badge&logo=ganache&logoColor=white" align="center" alt="ganache"/>
    <br/>
    <br/>
    <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
@@ -94,6 +93,7 @@
    <img src = "https://img.shields.io/badge/remix-0077B5.svg?style=for-the-badge&logo=remix&logoColor=white" align="center" alt="Remix IDE"/>
    <img src = "https://img.shields.io/badge/truffle-F77F00.svg?style=for-the-badge&logo=Truffle&logoColor=white" align="center" alt="Truffle"/>
    <img src = "https://img.shields.io/badge/sui_cli-00A3E0.svg?style=for-the-badge&logo=sui_cli&logoColor=white" align="center" alt="SUI CLI"/>
+   <img src="https://img.shields.io/badge/ganache-F77F0B.svg?style=for-the-badge&logo=ganache&logoColor=white" align="center" alt="ganache"/>
    <br/>
   </div>
 
