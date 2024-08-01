@@ -69,7 +69,8 @@
   <div align="center"><h3 align="center">Backend</h3> 
    <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" align="center" alt="Solidity"/> 
-   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/> 
+   <img src="https://img.shields.io/badge/PHP-777BB5.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/>
+   <img src="https://img.shields.io/badge/ganache-777BB4.svg?style=for-the-badge&logo=ganache&logoColor=white" align="center" alt="ganache"/>
    <br/>
    <br/>
    <img src="https://img.shields.io/badge/Express.js-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
