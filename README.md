@@ -28,20 +28,10 @@
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
-    <a href="https://github.com/jvc-byte">
-        <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" align="center" alt="GitHub"/></a>
-    <a href="https://x.com/jvc_im">
-        <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="Twitter" style="vertical-align:top; margin:4px">-->
-     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
-     <a href="https://medium.com/@jvc8463">
-       <!-- <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/medium.svg" alt="Medium" style="vertical-align:top; margin:4px">-->
-      <img src="https://img.shields.io/badge/Medium-00AB6C.svg?style=for-the-badge&logo=Medium&logoColor=white" align="center" alt="Medium"/></a>
-     <a href="https://www.linkedin.com/in/jvc-byte">
-      <!--  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">-->
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
-     <a href="https://stackoverflow.com/users/26541032/jvc?tab=profile">
-        <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/png/social/stackoverflow.png" alt="vscode" style="vertical-align:top; margin:4px">-->
-      <img src="https://img.shields.io/badge/Stackoverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white" align="center" alt="Stackoverflow"/></a>
+    <a href="https://x.com/jvc_byte"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
+    <a href="https://medium.com/@jvc-byte"><img src="https://img.shields.io/badge/Medium-00AB6C.svg?style=for-the-badge&logo=Medium&logoColor=white" align="center" alt="Medium"/></a>
+    <a href="https://www.linkedin.com/in/jvc-o"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
+     <a href="https://stackoverflow.com/users/26541032/jvc?tab=profile"><img src="https://img.shields.io/badge/Stackoverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white" align="center" alt="Stackoverflow"/></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
