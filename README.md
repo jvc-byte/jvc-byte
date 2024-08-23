@@ -76,9 +76,8 @@
 
 
 ## 📊 Statistics  
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=github_dark" width="50%" />
-<img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="30%" alt="GitHub Streak" />
-<br/>
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=github_dark" width="40%" />
+<img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="50%" alt="GitHub Streak" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=github_dark" width="50%" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=github_dark" width="50%" />  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=github_dark" style="height: 300px"/>
