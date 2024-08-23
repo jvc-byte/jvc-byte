@@ -76,19 +76,11 @@
 
 
 ## 📊 Statistics  
-<div>
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvc-byte&theme=github_dark" width="46%" />
- <br/>
- <a href="https://git.io/streak-stats"><img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" /></a>
-</div>
-<div>
+<img align="right" src="https://streak-stats.demolab.com?user=jvc-byte&theme=transparent&hide_border=true&card_height=250" width="46%" alt="GitHub Streak" />
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvc-byte&theme=github_dark" width="45%" />
- <br/>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=github_dark" width="45%" />
-</div>
-<div align="center">    
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvc-byte&theme=github_dark" width="45%" />  
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvc-byte&theme=github_dark" style="height: 300px"/>
-</div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 GitHub Trophies
