@@ -3,7 +3,7 @@
  <!-- QUICK INTRO ABOUT ME -->
 <h1>Hi 👋, I'm JVC </h1>
 <p align="center" color: "red">
-  <a><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&height=1000&width=1000&lines=I+am+a+dedicated+software+engineering+student+currently+pursuing+a;BSc+in+Software+Engineering,+with+over+2+years+of+experience;in+the+tech+industry.+Throughout+my+academic+journey,;I+have+actively+participated+in+various+projects,+applying+my+skills;in+real-world+scenarios.+I+have+contributed+to+developing;maintainable+code+and+implementing+automation+techniques;to+optimize+systems.+My+coursework+and+hands-on+projects;have+equipped+me+with+a+strong+foundation+in+GitHub,;embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of;applications+across+diverse+environments"></a>
+  <a><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&multiline=true&repeat=false&height=50&width=1000&lines=I+am+a+dedicated+software+engineering+student+currently+pursuing+a;BSc+in+Software+Engineering,+with+over+2+years+of+experience;in+the+tech+industry.+Throughout+my+academic+journey,;I+have+actively+participated+in+various+projects,+applying+my+skills;in+real-world+scenarios.+I+have+contributed+to+developing;maintainable+code+and+implementing+automation+techniques;to+optimize+systems.+My+coursework+and+hands-on+projects;have+equipped+me+with+a+strong+foundation+in+GitHub,;embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of;applications+across+diverse+environments"></a>
    </p>
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="left">
