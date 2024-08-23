@@ -6,7 +6,7 @@
   <a><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1000&lines=I+am+a+dedicated+software+engineering+student+currently+pursuing+a;BSc+in+Software+Engineering,+with+over+2+years+of+experience;in+the+tech+industry.+Throughout+my+academic+journey,;I+have+actively+participated+in+various+projects,+applying+my+skills;in+real-world+scenarios.+I+have+contributed+to+developing;maintainable+code+and+implementing+automation+techniques;to+optimize+systems.+My+coursework+and+hands-on+projects;have+equipped+me+with+a+strong+foundation+in+GitHub,;embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of;applications+across+diverse+environments"></a>
    </p> -->
 <div style="margin-bottom: 20px; position: relative; z-index: 1;">
-  <a><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1000&lines=I+am+a+dedicated+software+engineering+student+currently+pursuing+a;BSc+in+Software+Engineering,+with+over+2+years+of+experience;in+the+tech+industry.+Throughout+my+academic+journey,;I+have+actively+participated+in+various+projects,+applying+my+skills;in+real-world+scenarios.+I+have+contributed+to+developing;maintainable+code+and+implementing+automation+techniques;to+optimize+systems.+My+coursework+and+hands-on+projects;have+equipped+me+with+a+strong+foundation+in+GitHub,;embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of;applications+across+diverse+environments"></a>
+  <a><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=4000&pause=550&color=FFFFFF&vCenter=true&width=1000&lines=I+am+a+dedicated+software+engineering+student+currently+pursuing+a;BSc+in+Software+Engineering,+with+over+2+years+of+experience;in+the+tech+industry.+Throughout+my+academic+journey,;I+have+actively+participated+in+various+projects,+applying+my+skills;in+real-world+scenarios.+I+have+contributed+to+developing;maintainable+code+and+implementing+automation+techniques;to+optimize+systems.+My+coursework+and+hands-on+projects;have+equipped+me+with+a+strong+foundation+in+GitHub,;embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of;applications+across+diverse+environments"></a> 
 </div>
 <div style="height: 50px;"></div>
 
@@ -21,14 +21,13 @@
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
-- 🔭 I’m currently working on **Layer two scaling solution for Ethereum Network.**
-- 🌱 I’m currently learning **Sui blockchain and Zero-Knowledge Proofs.**
+- 🔭 I’m currently working on **layer two scaling solution for Ethereum Network.**
+- 🌱 I’m currently learning about **blockchain and Zero-Knowledge Proofs.**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development.
 - 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system).
-- 🤝 I’m looking for help with [**Sui blockchain-based charity and aid distribution system**](https://github.com/jvc-byte/charity-aid-system).
-- 👨‍💻 All of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories).
-- 📫 How to reach me via [**email**](mailto:jvc8463@gmail.com).
-- 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-byte).
+- 👨‍💻 Some of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories).
+- 📫 Reach me via [**email**](mailto:jvc8463@gmail.com).
+- 📄 Know about my experiences on [**LinkedIn**](https://linkedin.com/in/jvc-o).
 - 💬 Open for your suggestions.
 - ⚡ Fun fact: **The first 1GB hard drive, introduced by IBM in 1980, weighed over 500 pounds and cost $40,000. Today, you can fit many terabytes of data on a tiny, affordable flash drive that fits in your pocket!**
  
