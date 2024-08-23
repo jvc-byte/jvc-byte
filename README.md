@@ -59,10 +59,10 @@
   
   <div align="center"><h3 align="center">Tools</h3> 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+   <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/VS_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode"/>
-    <img src="https://img.shields.io/badge/git%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="git"/>
    <br/>
    <br/>
    <img src = "https://img.shields.io/badge/hardhat-4C4F5C.svg?style=for-the-badge&logo=hardhat&logoColor=white" align="center" alt="Hardhat"/>
