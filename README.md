@@ -34,7 +34,8 @@
      <a href="https://stackoverflow.com/users/26541032/jvc?tab=profile"><img src="https://img.shields.io/badge/Stackoverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white" align="center" alt="Stackoverflow"/></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!-- Skill section-->
+
+<!-- My Skills Section-->
 ## 🥇 Technical Skills:
  <div align="center"><h3 align="center">Frontend</h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
