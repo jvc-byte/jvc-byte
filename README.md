@@ -70,6 +70,7 @@
    <img src = "https://img.shields.io/badge/truffle-F77F00.svg?style=for-the-badge&logo=Truffle&logoColor=white" align="center" alt="Truffle"/>
    <img src = "https://img.shields.io/badge/sui-00A3E0.svg?style=for-the-badge&logo=sui&logoColor=white" align="center" alt="SUI"/>
    <img src="https://img.shields.io/badge/ganache-F77F0B.svg?style=for-the-badge&logo=ganache&logoColor=white" align="center" alt="ganache"/>
+   <img src="https://img.shields.io/badge/foundry-FFFFFF.svg?style=for-the-badge&logo=foundry&logoColor=white" align="center" alt="foundry"/>
    <img src="https://img.shields.io/badge/Laravel-FF2D20.svg?style=for-the-badge&logo=Laravel&logoColor=white" align="center" alt="Laravel"/>
    <br/>
   </div>
