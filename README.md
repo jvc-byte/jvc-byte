@@ -43,7 +43,7 @@
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
   <img src ="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
-  <img src="https://img.shields.io/badge/Angular-800000?style=for-the-badge&logo=angular&logoColor=61DAFB"  align="center" alt="Angular" />
+  <img src="https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=800000"  align="center" alt="Angular" />
   <br/>
   <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />  
