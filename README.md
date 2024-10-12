@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **layer two scaling solution for Ethereum Network.**
 - 🌱 I’m currently learning about **blockchain and Zero-Knowledge Proofs.**
-- 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web development.
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web3 development.
 - 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system).
 - 👨‍💻 Some of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories).
 - 📫 Reach me via [**email**](mailto:jvc8463@gmail.com).
