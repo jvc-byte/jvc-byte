@@ -43,6 +43,7 @@
   <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
   <img src ="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+  <img src="https://img.shields.io/badge/Angular-800000?style=for-the-badge&logo=angular&logoColor=61DAFB"  align="center" alt="Angular" />
   <br/>
   <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />  
@@ -52,6 +53,7 @@
    <img src="https://img.shields.io/badge/Move-3A22AD.svg?style=for-the-badge&logo=Move&logoColor=white" align="center" alt="Move"/> 
    <img src="https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white" align="center" alt="Solidity"/> 
    <img src="https://img.shields.io/badge/PHP-777BB5.svg?style=for-the-badge&logo=PHP&logoColor=white" align="center" alt="PHP"/>
+   <img src="https://img.shields.io/badge/Expressjs-808080?style=for-the-badge&logo=expressjs&logoColor=61DAFB"  align="center" alt="Expressjs" />
    <br/>
    <br/>
  <img src="https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white" align="center" alt="nodemon"/>
