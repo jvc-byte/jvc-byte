@@ -29,7 +29,6 @@
     <a href="https://medium.com/@jvc-byte"><img src="https://img.shields.io/badge/Medium-00AB6C.svg?style=for-the-badge&logo=Medium&logoColor=white" align="center" alt="Medium"/></a>
     <a href="https://www.linkedin.com/in/jvc-o"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
     <a href="https://warpcast.com/jvc-byte"><img src="https://img.shields.io/badge/WarpCast-800080.svg?style=for-the-badge&logo=WarpCast&logoColor=white" align="center" alt="LinkedIn"/></a>
-     <a href="https://stackoverflow.com/users/26541032/jvc?tab=profile"><img src="https://img.shields.io/badge/Stackoverflow-F58025.svg?style=for-the-badge&logo=Stackoverflow&logoColor=white" align="center" alt="Stackoverflow"/></a>
 </p>
 
 <!-- MY GITHUB SUMMARIES-->  
