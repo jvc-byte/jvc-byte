@@ -12,8 +12,8 @@
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
-- 🔭 I’m currently working on **layer two scaling solution for Ethereum Network.**
-- 🌱 I’m currently learning about **blockchain and Zero-Knowledge Proofs.**
+- 🔭 I’m currently working on **Sealed Trust 🛡️**
+- 🌱 I’m currently learning about **Zero-Knowledge Proofs.**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web3 development.
 - 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system).
 - 👨‍💻 Some of my projects are available at my GitHub [**repositories**](https://github.com/jvc-byte?tab=repositories).
