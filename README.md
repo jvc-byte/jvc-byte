@@ -25,7 +25,7 @@
 <!-- CONNECT WITH ME -->
 <p align="left" style="display: flex; align-items: center;">
   <strong>Let's Connect on:</strong>
-    <a href="https://x.com/jvc_byte"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
+    <a href="https://x.com/jvcByte"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" align="center" alt="Twitter"/></a>
     <a href="https://medium.com/@jvc-byte"><img src="https://img.shields.io/badge/Medium-00AB6C.svg?style=for-the-badge&logo=Medium&logoColor=white" align="center" alt="Medium"/></a>
     <a href="https://www.linkedin.com/in/jvc-o"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" align="center" alt="LinkedIn"/></a>
     <a href="https://warpcast.com/jvc-byte"><img src="https://img.shields.io/badge/WarpCast-800080.svg?style=for-the-badge&logo=WarpCast&logoColor=white" align="center" alt="LinkedIn"/></a>
@@ -41,6 +41,7 @@
   <img src ="https://img.shields.io/badge/javascript-%2314354C.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
   <img src="https://img.shields.io/badge/Angular-800000?style=for-the-badge&logo=angular&logoColor=fff"  align="center" alt="Angular" />
+  <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=angular&logoColor=fff"  align="center" alt="Next.js" />
   <br/>
   <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />  
