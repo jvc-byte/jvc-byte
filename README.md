@@ -64,7 +64,7 @@
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
    <img src = "https://img.shields.io/badge/NPM-CA4245?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src = "https://img.shields.io/badge/PNPM-CA4245?style=for-the-badge&logo=pnpm&logoColor=white" align="center" alt="pnpm">
-   <img src="https://img.shields.io/badge/VS_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"  align="center" alt="vscode"/>
+   <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=vscode&logoColor=white"  align="center" alt="vscode"/>
    <br/>
    <br/>
    <img src = "https://img.shields.io/badge/hardhat-4C4F5C.svg?style=for-the-badge&logo=hardhat&logoColor=white" align="center" alt="Hardhat"/>
