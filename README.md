@@ -2,9 +2,6 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
  <!-- QUICK INTRO ABOUT ME -->
 <h3>Hi 👋, I'm JVC </h3>
-<p align="center" color: "red">
-  <a><img src="https://readme-typing-svg.demolab.com/?font=times+new+roman&weight=10&size=23&duration=8000&pause=550&color=FFFFFF&vCenter=true&multiline=true&repeat=false&height=145&width=1400&lines=A+dedicated+software+engineering+student+currently+pursuing+BSc+in+Software+Engineering,+with+over+2+years+of+experience+in+the+tech+industry.;Throughout+my+academic+journey,+I+have+actively+participated+in+various+projects,+applying+my+skills+in+real+world+scenarios.;I+have+contributed+to+developing+maintainable+code+and+implementing+automation+techniques+to+optimize+systems.;My+coursework+and+hands+on+projects,+have+equipped+me+with+a+strong+foundation+in+GitHub,+embedded+systems,+IoT,+and+Blockchain+architecture,;ensuring+the+seamless+integration+and+deployment+of+applications+across+diverse+environments"></a>
-   </p>
 <!-- PROFILE VIEW AND FOLLOWERS -->
 <p align="left">
  <img src="https://komarev.com/ghpvc/?username=jvc-byte&label=Profile_views&color=0ED7FF&style=flat" alt="profile-views-count"/>
