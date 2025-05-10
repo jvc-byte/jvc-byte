@@ -12,7 +12,7 @@
 <!-- ABOUT ME AND MY UPDATES -->
 <img align="right" alt="Coding" width="400" height="350" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 
-- 🔭 I’m currently working on **Sealed Trust 🛡️**
+- 🔭 I’m currently working on **(Sealed Trust 🛡️)[https://stv2.vercel.app]**
 - 🌱 I’m currently learning about **Zero-Knowledge Proofs.**
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@jvc-byte) about blockchain, cryptography, and web3 development.
 - 👯 I’m looking to collaborate on [**web development projects**](https://github.com/jvc-byte/inventory_management_system).
